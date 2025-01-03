@@ -1,6 +1,8 @@
 # quantreg_Ranger
 Quantile regression with ranger Use quantregRanger With (In) R Software
 
+https://www.youtube.com/watch?v=xz_wDR4iDHY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
